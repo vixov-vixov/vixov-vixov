@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @vixov-vixov
-- 👀 I’m interested in Ethical hacking
+- 👋 Hi, I’m Vixov
+- i am creating html css javascript websites using AI
+- if you have anything in mind dont hasitate to ask.
