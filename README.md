@@ -8,7 +8,6 @@
 - 🐧 Passionate about **Linux**, **Networking**, and **Cybersecurity**  
 - 💡 Currently learning **French**, **Hyprland**, and **Shell scripting**  
 - 🧰 Working with: VMware, Docker, Nginx, Apache, EIGRP, ACLs, VLANs, HSRP  
-- 🎮 Valorant player — **Omen main** 😈  
 - 🚀 Interested in **AI models**, running **LLaMA** locally, and building **hacker-themed apps**
 
 ---
